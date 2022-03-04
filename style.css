@@ -1,0 +1,17 @@
+body {
+  padding: 20px;
+  display: flex;
+}
+
+input {
+  margin: 0 0 20px;
+  display: flex;
+}
+
+input, label {
+  display:block;
+}
+
+button{
+  margin-top: 10px;
+}
